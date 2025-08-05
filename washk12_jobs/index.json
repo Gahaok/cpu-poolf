@@ -1,6 +1,6 @@
 {
   "source": "Washington County School District",
-  "job_count": 60,
+  "job_count": 61,
   "jobs": [
     {
       "job_id": "10676",
@@ -290,24 +290,44 @@
       "license_requirements": "sment.CERTIFICATES, LICENSES, REGISTRATIONSCandidates with an Associate\u2019s Degree (or higher) in an early childhood education re"
     },
     {
-      "job_id": "11035",
-      "title": "Special Education Paraprofessional",
+      "job_id": "11038",
+      "title": "Media Assistant",
       "position_type": "Paraprofessional/Assistant",
-      "location": "Legacy Elementary",
-      "date_posted": "8/1/2025",
-      "date_available": "08/11/25",
-      "closing_date": "08/08/25",
-      "status": "Part Time, 15.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
-      "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
-      "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
-      "description": "Status:Part Time, 15.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.",
+      "location": "Dixie Intermediate (formerly Tonaquint Int)",
+      "date_posted": "8/4/2025",
+      "date_available": "After Hiring Process",
+      "closing_date": "08/11/2025",
+      "status": "Part Time, 20 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Media Assistant.pdfEmail To A FriendPrint Version",
+      "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Media Assistant.pdfEmail To A FriendPrint Version",
+      "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Media Assistant.pdfEmail To A FriendPrint Version",
+      "description": "Status:Part Time, 20 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.",
       "attachments": [
         {
-          "text": "Special Education Paraprofessional.pdf",
-          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=94944"
+          "text": "Media Assistant.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=94988"
         }
       ],
-      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11035"
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11038"
+    },
+    {
+      "job_id": "11039",
+      "title": "Paraprofessional Substitute",
+      "position_type": "Paraprofessional/Assistant",
+      "location": "Legacy Elementary",
+      "date_posted": "8/4/2025",
+      "date_available": "After Hiring Process",
+      "closing_date": "08/11/25",
+      "status": "On-Call / As Needed BasisMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 1 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Paraprofessional.pdfEmail To A FriendPrint Version",
+      "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 1 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Paraprofessional.pdfEmail To A FriendPrint Version",
+      "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Paraprofessional.pdfEmail To A FriendPrint Version",
+      "description": "Status:On-Call / As Needed BasisMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 1 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.",
+      "attachments": [
+        {
+          "text": "Paraprofessional.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=94993"
+        }
+      ],
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11039"
     },
     {
       "job_id": "11030",
@@ -328,46 +348,6 @@
         }
       ],
       "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11030"
-    },
-    {
-      "job_id": "11033",
-      "title": "Computer Lab Assistant (Elementary)",
-      "position_type": "Paraprofessional/Assistant",
-      "location": "LaVerkin Elementary",
-      "date_posted": "7/29/2025",
-      "date_available": "08/11/25",
-      "closing_date": "08/05/25",
-      "status": "Part Time, 27.5\u00a0hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.Experience using various computer platforms, office suite software, Internet browsers, and other computer related equipment, including scanners, burners, and printers preferred, but not required.The salary for this position is assigned to Level 3\u00a0of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Computer Lab Assistant, Elementary.pdfEmail To A FriendPrint Version",
-      "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.Experience using various computer platforms, office suite software, Internet browsers, and other computer related equipment, including scanners, burners, and printers preferred, but not required.The salary for this position is assigned to Level 3\u00a0of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Computer Lab Assistant, Elementary.pdfEmail To A FriendPrint Version",
-      "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Computer Lab Assistant, Elementary.pdfEmail To A FriendPrint Version",
-      "description": "Status:Part Time, 27.5\u00a0hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.Experience using various computer platforms, office suite software, Internet browsers, and other computer related equipment, including scanners, burners, and printers preferred, but not required.The salary for this position is assigned to Level 3\u00a0of the SC Salary Schedule.To view the salary schedule, plea...",
-      "attachments": [
-        {
-          "text": "Computer Lab Assistant, Elementary.pdf",
-          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=94876"
-        }
-      ],
-      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11033"
-    },
-    {
-      "job_id": "10667",
-      "title": "Special Education Paraprofessional",
-      "position_type": "Paraprofessional/Assistant",
-      "location": "Hurricane High",
-      "date_posted": "5/30/2025",
-      "date_available": "08/11/2025",
-      "closing_date": "08/05/2025",
-      "status": "Part Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
-      "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
-      "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
-      "description": "Status:Part Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.",
-      "attachments": [
-        {
-          "text": "Special Education Paraprofessional.pdf",
-          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=92784"
-        }
-      ],
-      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10667"
     },
     {
       "job_id": "10981",
@@ -530,25 +510,64 @@
       "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11024"
     },
     {
-      "job_id": "10830",
-      "title": "Indian Education Assistant",
+      "job_id": "11035",
+      "title": "Special Education Paraprofessional",
       "position_type": "Paraprofessional/Assistant",
-      "location": "Red Mountain Elementary",
-      "date_posted": "5/7/2025",
-      "date_available": "08/11/2025",
-      "closing_date": "08/12/2025",
-      "status": "Part Time,15 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.Valid Utah Driver's License required.Prior experience with the American Indian Culture and familiarity with American Indian customs is helpful, but not required.The salary for this position is assigned to Level 2 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Indian Education Assistant.pdfEmail To A FriendPrint Version",
-      "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.Valid Utah Driver's License required.Prior experience with the American Indian Culture and familiarity with American Indian customs is helpful, but not required.The salary for this position is assigned to Level 2 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Indian Education Assistant.pdfEmail To A FriendPrint Version",
-      "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Indian Education Assistant.pdfEmail To A FriendPrint Version",
-      "description": "Status:Part Time,15 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.Valid Utah Driver's License required.Prior experience with the American Indian Culture and familiarity with American Indian customs is helpful, but not required.The salary for this position is assigned to Level 2 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary...",
+      "location": "Legacy Elementary",
+      "date_posted": "8/1/2025",
+      "date_available": "08/11/25",
+      "closing_date": "08/08/25",
+      "status": "Part Time, 15.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
+      "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
+      "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
+      "description": "Status:Part Time, 15.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.",
       "attachments": [
         {
-          "text": "Indian Education Assistant.pdf",
-          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=93590"
+          "text": "Special Education Paraprofessional.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=94944"
         }
       ],
-      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10830",
-      "license_requirements": "Valid Utah Driver's License required.Prior experience with the American Indian Culture and familiarity with American Indian cus"
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11035"
+    },
+    {
+      "job_id": "11033",
+      "title": "Computer Lab Assistant (Elementary)",
+      "position_type": "Paraprofessional/Assistant",
+      "location": "LaVerkin Elementary",
+      "date_posted": "7/29/2025",
+      "date_available": "08/11/25",
+      "closing_date": "08/05/25",
+      "status": "Part Time, 27.5\u00a0hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.Experience using various computer platforms, office suite software, Internet browsers, and other computer related equipment, including scanners, burners, and printers preferred, but not required.The salary for this position is assigned to Level 3\u00a0of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Computer Lab Assistant, Elementary.pdfEmail To A FriendPrint Version",
+      "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.Experience using various computer platforms, office suite software, Internet browsers, and other computer related equipment, including scanners, burners, and printers preferred, but not required.The salary for this position is assigned to Level 3\u00a0of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Computer Lab Assistant, Elementary.pdfEmail To A FriendPrint Version",
+      "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Computer Lab Assistant, Elementary.pdfEmail To A FriendPrint Version",
+      "description": "Status:Part Time, 27.5\u00a0hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.Experience using various computer platforms, office suite software, Internet browsers, and other computer related equipment, including scanners, burners, and printers preferred, but not required.The salary for this position is assigned to Level 3\u00a0of the SC Salary Schedule.To view the salary schedule, plea...",
+      "attachments": [
+        {
+          "text": "Computer Lab Assistant, Elementary.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=94876"
+        }
+      ],
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11033"
+    },
+    {
+      "job_id": "10667",
+      "title": "Special Education Paraprofessional",
+      "position_type": "Paraprofessional/Assistant",
+      "location": "Hurricane High",
+      "date_posted": "5/30/2025",
+      "date_available": "08/11/2025",
+      "closing_date": "08/05/2025",
+      "status": "Part Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
+      "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
+      "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
+      "description": "Status:Part Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.",
+      "attachments": [
+        {
+          "text": "Special Education Paraprofessional.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=92784"
+        }
+      ],
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10667"
     },
     {
       "job_id": "10931",
@@ -733,26 +752,6 @@
         }
       ],
       "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10816"
-    },
-    {
-      "job_id": "10817",
-      "title": "Paraprofessional",
-      "position_type": "Paraprofessional/Assistant",
-      "location": "Heritage Elementary",
-      "date_posted": "5/5/2025",
-      "date_available": "08/11/25",
-      "closing_date": "08/15/25",
-      "status": "Part Time, 12 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 1 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Paraprofessional.pdfEmail To A FriendPrint Version",
-      "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 1 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Paraprofessional.pdfEmail To A FriendPrint Version",
-      "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Paraprofessional.pdfEmail To A FriendPrint Version",
-      "description": "Status:Part Time, 12 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 1 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.",
-      "attachments": [
-        {
-          "text": "Paraprofessional.pdf",
-          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=93512"
-        }
-      ],
-      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10817"
     },
     {
       "job_id": "10848",
@@ -986,10 +985,10 @@
       "date_posted": "4/28/2025",
       "date_available": "After Hiring Process",
       "closing_date": "08/15/25",
-      "status": "Part Time, 10 hours per week andPart Time, 12 hours per week andPart Time, 27.5\u00a0 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 1 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Paraprofessional.pdfEmail To A FriendPrint Version",
+      "status": "Part Time, 12 hours per week andPart Time, 25 hours per week andPart Time, 27.5\u00a0 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 1 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Paraprofessional.pdfEmail To A FriendPrint Version",
       "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 1 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Paraprofessional.pdfEmail To A FriendPrint Version",
       "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Paraprofessional.pdfEmail To A FriendPrint Version",
-      "description": "Status:Part Time, 10 hours per week andPart Time, 12 hours per week andPart Time, 27.5\u00a0 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 1 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.",
+      "description": "Status:Part Time, 12 hours per week andPart Time, 25 hours per week andPart Time, 27.5\u00a0 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 1 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.",
       "attachments": [
         {
           "text": "Paraprofessional.pdf",
@@ -1077,6 +1076,26 @@
         }
       ],
       "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10736"
+    },
+    {
+      "job_id": "10738",
+      "title": "Paraprofessional",
+      "position_type": "Paraprofessional/Assistant",
+      "location": "Legacy Elementary",
+      "date_posted": "4/28/2025",
+      "date_available": "08/11/25",
+      "closing_date": "08/04/25",
+      "status": "Part Time, 27.5 hours per week.Minimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 1 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Paraprofessional.pdfEmail To A FriendPrint Version",
+      "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 1 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Paraprofessional.pdfEmail To A FriendPrint Version",
+      "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Paraprofessional.pdfEmail To A FriendPrint Version",
+      "description": "Status:Part Time, 27.5 hours per week.Minimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 1 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.",
+      "attachments": [
+        {
+          "text": "Paraprofessional.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=93045"
+        }
+      ],
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10738"
     },
     {
       "job_id": "10748",
