@@ -1,6 +1,6 @@
 {
   "source": "Washington County School District",
-  "job_count": 44,
+  "job_count": 50,
   "jobs": [
     {
       "job_id": "11001",
@@ -105,25 +105,26 @@
       "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11041"
     },
     {
-      "job_id": "11048",
-      "title": "Food Service Worker",
-      "position_type": "Food Service",
-      "location": "Hurricane Middle",
-      "date_posted": "8/7/2025",
-      "date_available": "After hiring process",
-      "closing_date": "08/14/2025",
-      "status": "Part Time,\u00a027.5 hours per weekMinimum Requirements:Hold and maintain a Utah driver's license when assigned to a transport school. \u00a0Possess a Food Handler's permit.The salary for this position is assigned to Level 1 of the FD Salary Schedule.To view the salary schedule, please select the following linkFD\u00a0Salary Schedule.Attachment(s):Food Service Worker.pdfEmail To A FriendPrint Version",
-      "minimum_requirements": "Hold and maintain a Utah driver's license when assigned to a transport school. \u00a0Possess a Food Handler's permit.The salary for this position is assigned to Level 1 of the FD Salary Schedule.To view the salary schedule, please select the following linkFD\u00a0Salary Schedule.Attachment(s):Food Service Worker.pdfEmail To A FriendPrint Version",
-      "salary_information": "Schedule.To view the salary schedule, please select the following linkFD\u00a0Salary Schedule.Attachment(s):Food Service Worker.pdfEmail To A FriendPrint Version",
-      "description": "Status:Part Time,\u00a027.5 hours per weekMinimum Requirements:Hold and maintain a Utah driver's license when assigned to a transport school. \u00a0Possess a Food Handler's permit.The salary for this position is assigned to Level 1 of the FD Salary Schedule.To view the salary schedule, please select the following linkFD\u00a0Salary Schedule.",
+      "job_id": "11055",
+      "title": "Counselor - Elementary Education - Part Time",
+      "position_type": "Counseling",
+      "location": "Sandstone Elementary",
+      "date_posted": "8/12/2025",
+      "date_available": "After Hiring Process",
+      "closing_date": "08/19/25",
+      "status": "Part Time, .5 FTEMinimum Requirements:An active Utah School Counselor K-12 LicenseThe salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):Counselor- Elementary.pdfEmail To A FriendPrint Version",
+      "minimum_requirements": "An active Utah School Counselor K-12 LicenseThe salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):Counselor- Elementary.pdfEmail To A FriendPrint Version",
+      "salary_information": "Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):Counselor- Elementary.pdfEmail To A FriendPrint Version",
+      "description": "Status:Part Time, .5 FTEMinimum Requirements:An active Utah School Counselor K-12 LicenseThe salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.",
       "attachments": [
         {
-          "text": "Food Service Worker.pdf",
-          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=95090"
+          "text": "Counselor- Elementary.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=96177"
         }
       ],
-      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11048",
-      "license_requirements": "ain a Utah driver's license when assigned to a transport school. \u00a0Possess a Food Handler's permit.The salary for this position"
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11055",
+      "fte": "5 FTE",
+      "license_requirements": "hool Counselor K-12 LicenseThe salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, plea"
     },
     {
       "job_id": "10678",
@@ -144,6 +145,27 @@
         }
       ],
       "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10678",
+      "license_requirements": "ain a Utah driver's license when assigned to a transport school. \u00a0Possess a Food Handler's permit.The salary for this position"
+    },
+    {
+      "job_id": "11048",
+      "title": "Food Service Worker",
+      "position_type": "Food Service",
+      "location": "Hurricane Middle",
+      "date_posted": "8/7/2025",
+      "date_available": "After hiring process",
+      "closing_date": "08/14/2025",
+      "status": "Part Time,\u00a027.5 hours per weekMinimum Requirements:Hold and maintain a Utah driver's license when assigned to a transport school. \u00a0Possess a Food Handler's permit.The salary for this position is assigned to Level 1 of the FD Salary Schedule.To view the salary schedule, please select the following linkFD\u00a0Salary Schedule.Attachment(s):Food Service Worker.pdfEmail To A FriendPrint Version",
+      "minimum_requirements": "Hold and maintain a Utah driver's license when assigned to a transport school. \u00a0Possess a Food Handler's permit.The salary for this position is assigned to Level 1 of the FD Salary Schedule.To view the salary schedule, please select the following linkFD\u00a0Salary Schedule.Attachment(s):Food Service Worker.pdfEmail To A FriendPrint Version",
+      "salary_information": "Schedule.To view the salary schedule, please select the following linkFD\u00a0Salary Schedule.Attachment(s):Food Service Worker.pdfEmail To A FriendPrint Version",
+      "description": "Status:Part Time,\u00a027.5 hours per weekMinimum Requirements:Hold and maintain a Utah driver's license when assigned to a transport school. \u00a0Possess a Food Handler's permit.The salary for this position is assigned to Level 1 of the FD Salary Schedule.To view the salary schedule, please select the following linkFD\u00a0Salary Schedule.",
+      "attachments": [
+        {
+          "text": "Food Service Worker.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=95090"
+        }
+      ],
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11048",
       "license_requirements": "ain a Utah driver's license when assigned to a transport school. \u00a0Possess a Food Handler's permit.The salary for this position"
     },
     {
@@ -266,6 +288,46 @@
         }
       ],
       "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10819"
+    },
+    {
+      "job_id": "11030",
+      "title": "Special Education Paraprofessional",
+      "position_type": "Paraprofessional/Assistant",
+      "location": "Bloomington Hills Elementary",
+      "date_posted": "7/29/2025",
+      "date_available": "After Hiring Process",
+      "closing_date": "08/21/25",
+      "status": "Part Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
+      "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
+      "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
+      "description": "Status:Part Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.",
+      "attachments": [
+        {
+          "text": "Special Education Paraprofessional.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=94863"
+        }
+      ],
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11030"
+    },
+    {
+      "job_id": "10811",
+      "title": "Computer Lab Assistant (Secondary)",
+      "position_type": "Paraprofessional/Assistant",
+      "location": "Dixie High",
+      "date_posted": "5/1/2025",
+      "date_available": "08/11/2025",
+      "closing_date": "08/19/2025",
+      "status": "Part Time, 15 hour and 17.5 hour per week vacancies availableMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.Media Center or Computer Lab experience preferred, but not required.\u00a0 Experience using various computer platforms, office suite software, Internet browsers, and other computer related equipment, including scanners, burners, and printers preferred, but not required.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Computer Lab Assistant, Secondary.pdfEmail To A FriendPrint Version",
+      "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.Media Center or Computer Lab experience preferred, but not required.\u00a0 Experience using various computer platforms, office suite software, Internet browsers, and other computer related equipment, including scanners, burners, and printers preferred, but not required.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Computer Lab Assistant, Secondary.pdfEmail To A FriendPrint Version",
+      "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Computer Lab Assistant, Secondary.pdfEmail To A FriendPrint Version",
+      "description": "Status:Part Time, 15 hour and 17.5 hour per week vacancies availableMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.Media Center or Computer Lab experience preferred, but not required.\u00a0 Experience using various computer platforms, office suite software, Internet browsers, and other computer related equipment, including scanners, burners, and printers preferred, but not required.The salary...",
+      "attachments": [
+        {
+          "text": "Computer Lab Assistant, Secondary.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=93379"
+        }
+      ],
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10811"
     },
     {
       "job_id": "11005",
@@ -568,6 +630,26 @@
       "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10944"
     },
     {
+      "job_id": "10954",
+      "title": "Media Assistant",
+      "position_type": "Paraprofessional/Assistant",
+      "location": "Dixie High",
+      "date_posted": "6/24/2025",
+      "date_available": "08/11/2025",
+      "closing_date": "08/19/2025",
+      "status": "Part Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Media Assistant.pdfEmail To A FriendPrint Version",
+      "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Media Assistant.pdfEmail To A FriendPrint Version",
+      "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Media Assistant.pdfEmail To A FriendPrint Version",
+      "description": "Status:Part Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.",
+      "attachments": [
+        {
+          "text": "Media Assistant.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=94205"
+        }
+      ],
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10954"
+    },
+    {
       "job_id": "10682",
       "title": "Special Education Paraprofessional",
       "position_type": "Paraprofessional/Assistant",
@@ -606,6 +688,26 @@
         }
       ],
       "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10695"
+    },
+    {
+      "job_id": "10704",
+      "title": "Special Education Paraprofessional",
+      "position_type": "Paraprofessional/Assistant",
+      "location": "Sandstone Elementary",
+      "date_posted": "4/28/2025",
+      "date_available": "After Hiring Process",
+      "closing_date": "08/26/25",
+      "status": "Part Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
+      "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
+      "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
+      "description": "Status:Part Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.",
+      "attachments": [
+        {
+          "text": "Special Education Paraprofessional.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=93010"
+        }
+      ],
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10704"
     },
     {
       "job_id": "10714",
@@ -789,47 +891,44 @@
       "license_requirements": "Valid Utah Driver's License required.Prior experience with the American Indian Culture and familiarity with American Indian cus"
     },
     {
-      "job_id": "11030",
+      "job_id": "11056",
       "title": "Special Education Paraprofessional",
       "position_type": "Paraprofessional/Assistant",
-      "location": "Bloomington Hills Elementary",
-      "date_posted": "7/29/2025",
-      "date_available": "After Hiring Process",
-      "closing_date": "08/21/25",
-      "status": "Part Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
+      "location": "Sunrise Ridge Intermediate",
+      "date_posted": "8/12/2025",
+      "date_available": "After hiring process",
+      "closing_date": "08/19/2025",
+      "status": "Part Time, 15 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
       "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
       "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
-      "description": "Status:Part Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.",
+      "description": "Status:Part Time, 15 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.",
       "attachments": [
         {
           "text": "Special Education Paraprofessional.pdf",
-          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=94863"
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=96178"
         }
       ],
-      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11030"
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11056"
     },
     {
-      "job_id": "11021",
-      "title": "Special Education Mild/Moderate Teacher - Full Time",
-      "position_type": "SPED Teaching/Certified",
-      "location": "Washington Elementary",
-      "date_posted": "7/23/2025",
-      "date_available": "08/04/25",
-      "closing_date": "08/20/2025",
-      "status": "Full Time, 1 FTEMinimum Requirements:An Active Utah Special Education K-12 License. \u00a0Mild/Moderate Endorsement preferred.The salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):Special Education Teacher.pdfEmail To A FriendPrint Version",
-      "minimum_requirements": "An Active Utah Special Education K-12 License. \u00a0Mild/Moderate Endorsement preferred.The salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):Special Education Teacher.pdfEmail To A FriendPrint Version",
-      "salary_information": "Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):Special Education Teacher.pdfEmail To A FriendPrint Version",
-      "description": "Status:Full Time, 1 FTEMinimum Requirements:An Active Utah Special Education K-12 License. \u00a0Mild/Moderate Endorsement preferred.The salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.",
+      "job_id": "11057",
+      "title": "Special Education Paraprofessional",
+      "position_type": "Paraprofessional/Assistant",
+      "location": "Desert Hills Middle",
+      "date_posted": "8/12/2025",
+      "date_available": "After hiring process",
+      "closing_date": "08/19/2025",
+      "status": "Part Time, 11.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
+      "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
+      "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
+      "description": "Status:Part Time, 11.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.",
       "attachments": [
         {
-          "text": "Special Education Teacher.pdf",
-          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=94710"
+          "text": "Special Education Paraprofessional.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=96179"
         }
       ],
-      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11021",
-      "fte": "1 FTE",
-      "endorsements_required": "preferred.The salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):Special Education Teacher.pdfEmail To A FriendPrint Version",
-      "license_requirements": "cial Education K-12 License. \u00a0Mild/Moderate Endorsement preferred.The salary for this position is assigned to the TT Salary Sch"
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11057"
     },
     {
       "job_id": "11042",
@@ -850,6 +949,29 @@
         }
       ],
       "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11042",
+      "fte": "1 FTE",
+      "endorsements_required": "preferred.The salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):Special Education Teacher.pdfEmail To A FriendPrint Version",
+      "license_requirements": "cial Education K-12 License. \u00a0Mild/Moderate Endorsement preferred.The salary for this position is assigned to the TT Salary Sch"
+    },
+    {
+      "job_id": "11021",
+      "title": "Special Education Mild/Moderate Teacher - Full Time",
+      "position_type": "SPED Teaching/Certified",
+      "location": "Washington Elementary",
+      "date_posted": "7/23/2025",
+      "date_available": "08/04/25",
+      "closing_date": "08/20/2025",
+      "status": "Full Time, 1 FTEMinimum Requirements:An Active Utah Special Education K-12 License. \u00a0Mild/Moderate Endorsement preferred.The salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):Special Education Teacher.pdfEmail To A FriendPrint Version",
+      "minimum_requirements": "An Active Utah Special Education K-12 License. \u00a0Mild/Moderate Endorsement preferred.The salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):Special Education Teacher.pdfEmail To A FriendPrint Version",
+      "salary_information": "Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):Special Education Teacher.pdfEmail To A FriendPrint Version",
+      "description": "Status:Full Time, 1 FTEMinimum Requirements:An Active Utah Special Education K-12 License. \u00a0Mild/Moderate Endorsement preferred.The salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.",
+      "attachments": [
+        {
+          "text": "Special Education Teacher.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=94710"
+        }
+      ],
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11021",
       "fte": "1 FTE",
       "endorsements_required": "preferred.The salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):Special Education Teacher.pdfEmail To A FriendPrint Version",
       "license_requirements": "cial Education K-12 License. \u00a0Mild/Moderate Endorsement preferred.The salary for this position is assigned to the TT Salary Sch"
