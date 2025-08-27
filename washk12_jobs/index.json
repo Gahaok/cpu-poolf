@@ -1,6 +1,6 @@
 {
   "source": "Washington County School District",
-  "job_count": 41,
+  "job_count": 42,
   "jobs": [
     {
       "job_id": "10676",
@@ -230,26 +230,6 @@
       "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11086"
     },
     {
-      "job_id": "11034",
-      "title": "Lunchroom and Playground Monitor",
-      "position_type": "Miscellaneous Support",
-      "location": "Hurricane Elementary",
-      "date_posted": "7/30/2025",
-      "date_available": "After Hiring Process",
-      "closing_date": "09/05/25",
-      "status": "On-Call/As Needed BasisMinimum Requirements:High school diploma or general education degree (GED); or six months to one year related experience and/or training; or equivalent combination of education and experience.Minimum salary for this position is $17.13 per hour.Attachment(s):Lunchroom & Playground Monitor.pdfEmail To A FriendPrint Version",
-      "minimum_requirements": "High school diploma or general education degree (GED); or six months to one year related experience and/or training; or equivalent combination of education and experience.Minimum salary for this position is $17.13 per hour.Attachment(s):Lunchroom & Playground Monitor.pdfEmail To A FriendPrint Version",
-      "salary_information": "",
-      "description": "Status:On-Call/As Needed BasisMinimum Requirements:High school diploma or general education degree (GED); or six months to one year related experience and/or training; or equivalent combination of education and experience.Minimum salary for this position is $17.13 per hour.",
-      "attachments": [
-        {
-          "text": "Lunchroom & Playground Monitor.pdf",
-          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=94903"
-        }
-      ],
-      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11034"
-    },
-    {
       "job_id": "11060",
       "title": "Lunchroom and Playground Monitor",
       "position_type": "Miscellaneous Support",
@@ -288,6 +268,26 @@
         }
       ],
       "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10711"
+    },
+    {
+      "job_id": "11034",
+      "title": "Lunchroom and Playground Monitor",
+      "position_type": "Miscellaneous Support",
+      "location": "Hurricane Elementary",
+      "date_posted": "7/30/2025",
+      "date_available": "After Hiring Process",
+      "closing_date": "09/05/25",
+      "status": "On-Call/As Needed BasisMinimum Requirements:High school diploma or general education degree (GED); or six months to one year related experience and/or training; or equivalent combination of education and experience.Minimum salary for this position is $17.13 per hour.Attachment(s):Lunchroom & Playground Monitor.pdfEmail To A FriendPrint Version",
+      "minimum_requirements": "High school diploma or general education degree (GED); or six months to one year related experience and/or training; or equivalent combination of education and experience.Minimum salary for this position is $17.13 per hour.Attachment(s):Lunchroom & Playground Monitor.pdfEmail To A FriendPrint Version",
+      "salary_information": "",
+      "description": "Status:On-Call/As Needed BasisMinimum Requirements:High school diploma or general education degree (GED); or six months to one year related experience and/or training; or equivalent combination of education and experience.Minimum salary for this position is $17.13 per hour.",
+      "attachments": [
+        {
+          "text": "Lunchroom & Playground Monitor.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=94903"
+        }
+      ],
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11034"
     },
     {
       "job_id": "10714",
@@ -748,6 +748,29 @@
         }
       ],
       "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11085"
+    },
+    {
+      "job_id": "11090",
+      "title": "Special Education Mild/Moderate Teacher - Full Time",
+      "position_type": "SPED Teaching/Certified",
+      "location": "Coral Canyon Elementary",
+      "date_posted": "8/26/2025",
+      "date_available": "After Hiring Process",
+      "closing_date": "09/02/25",
+      "status": "Full Time, 1 FTEMinimum Requirements:An Active Utah Special Education K-12 License. \u00a0Mild/Moderate Endorsement preferred.The salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):Special Education Teacher.pdfEmail To A FriendPrint Version",
+      "minimum_requirements": "An Active Utah Special Education K-12 License. \u00a0Mild/Moderate Endorsement preferred.The salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):Special Education Teacher.pdfEmail To A FriendPrint Version",
+      "salary_information": "Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):Special Education Teacher.pdfEmail To A FriendPrint Version",
+      "description": "Status:Full Time, 1 FTEMinimum Requirements:An Active Utah Special Education K-12 License. \u00a0Mild/Moderate Endorsement preferred.The salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.",
+      "attachments": [
+        {
+          "text": "Special Education Teacher.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=96384"
+        }
+      ],
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11090",
+      "fte": "1 FTE",
+      "endorsements_required": "preferred.The salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):Special Education Teacher.pdfEmail To A FriendPrint Version",
+      "license_requirements": "cial Education K-12 License. \u00a0Mild/Moderate Endorsement preferred.The salary for this position is assigned to the TT Salary Sch"
     },
     {
       "job_id": "11081",
