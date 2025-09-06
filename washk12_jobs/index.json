@@ -1,6 +1,6 @@
 {
   "source": "Washington County School District",
-  "job_count": 37,
+  "job_count": 36,
   "jobs": [
     {
       "job_id": "10676",
@@ -23,26 +23,6 @@
       "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10676"
     },
     {
-      "job_id": "10888",
-      "title": "Head Girls Wrestling Coach (no teaching assignment)",
-      "position_type": "Coaching",
-      "location": "Crimson Cliffs High",
-      "date_posted": "5/27/2025",
-      "date_available": "After Hiring Process",
-      "closing_date": "Open Until Filled",
-      "status": "",
-      "minimum_requirements": "",
-      "salary_information": "",
-      "description": "This Head Girls Wrestling coaching assignment is for the 2025-2026 school year with no expectation of a teaching assignment.WCSD coaches are required to meet all UHSAA certification requirementspriorto starting\u00a0assignment and are required to maintain certifications during duration of employment.If any additional questions, applicants can contact the Athletic Director, Gabi Hasenbeck,\u00a0 at gabi.hasenbeck@washk12.org.A stipend will be provided for this assignment.",
-      "attachments": [
-        {
-          "text": "Head Coach.pdf",
-          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=93906"
-        }
-      ],
-      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10888"
-    },
-    {
       "job_id": "11040",
       "title": "Head Girls Wrestling Coach (no teaching assignment)",
       "position_type": "Coaching",
@@ -61,6 +41,26 @@
         }
       ],
       "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11040"
+    },
+    {
+      "job_id": "10888",
+      "title": "Head Girls Wrestling Coach (no teaching assignment)",
+      "position_type": "Coaching",
+      "location": "Crimson Cliffs High",
+      "date_posted": "5/27/2025",
+      "date_available": "After Hiring Process",
+      "closing_date": "Open Until Filled",
+      "status": "",
+      "minimum_requirements": "",
+      "salary_information": "",
+      "description": "This Head Girls Wrestling coaching assignment is for the 2025-2026 school year with no expectation of a teaching assignment.WCSD coaches are required to meet all UHSAA certification requirementspriorto starting\u00a0assignment and are required to maintain certifications during duration of employment.If any additional questions, applicants can contact the Athletic Director, Gabi Hasenbeck,\u00a0 at gabi.hasenbeck@washk12.org.A stipend will be provided for this assignment.",
+      "attachments": [
+        {
+          "text": "Head Coach.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=93906"
+        }
+      ],
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10888"
     },
     {
       "job_id": "11100",
@@ -125,27 +125,6 @@
       "license_requirements": "ain a Utah driver's license when assigned to a transport school. \u00a0Possess a Food Handler's permit.The salary for this position"
     },
     {
-      "job_id": "11092",
-      "title": "Custodian - 12:00 pm - 5:15 pm Daily",
-      "position_type": "Maintenance & Custodial",
-      "location": "Coral Canyon Elementary",
-      "date_posted": "8/26/2025",
-      "date_available": "After Hiring Process",
-      "closing_date": "09/16/25",
-      "status": "Part Time, 25.5 hours per week -\u00a012:00 pm - 5:15 pm DailyMinimum Requirements:No specific education requirement, but must demonstrate ability to read and write English at a level required for successful job performance. \u00a0A general knowledge of commercial cleaning techniques.One year of work experience in manual work. \u00a0Must hold and maintain a valid Utah Driver's License.The salary for this position is assigned to Level 1 of the MN Salary Schedule.To view the salary schedule, please select the following linkMN\u00a0Salary Schedule.Attachment(s):Custodian.pdfEmail To A FriendPrint Version",
-      "minimum_requirements": "No specific education requirement, but must demonstrate ability to read and write English at a level required for successful job performance. \u00a0A general knowledge of commercial cleaning techniques.One year of work experience in manual work. \u00a0Must hold and maintain a valid Utah Driver's License.The salary for this position is assigned to Level 1 of the MN Salary Schedule.To view the salary schedule, please select the following linkMN\u00a0Salary Schedule.Attachment(s):Custodian.pdfEmail To A FriendPrint Version",
-      "salary_information": "Schedule.To view the salary schedule, please select the following linkMN\u00a0Salary Schedule.Attachment(s):Custodian.pdfEmail To A FriendPrint Version",
-      "description": "Status:Part Time, 25.5 hours per week -\u00a012:00 pm - 5:15 pm DailyMinimum Requirements:No specific education requirement, but must demonstrate ability to read and write English at a level required for successful job performance. \u00a0A general knowledge of commercial cleaning techniques.One year of work experience in manual work. \u00a0Must hold and maintain a valid Utah Driver's License.The salary for this position is assigned to Level 1 of the MN Salary Schedule.To view the salary schedule, please select...",
-      "attachments": [
-        {
-          "text": "Custodian.pdf",
-          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=96392"
-        }
-      ],
-      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11092",
-      "license_requirements": "valid Utah Driver's License.The salary for this position is assigned to Level 1 of the MN Salary Schedule.To view the salary sc"
-    },
-    {
       "job_id": "11074",
       "title": "Custodian",
       "position_type": "Maintenance & Custodial",
@@ -164,6 +143,27 @@
         }
       ],
       "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11074",
+      "license_requirements": "valid Utah Driver's License.The salary for this position is assigned to Level 1 of the MN Salary Schedule.To view the salary sc"
+    },
+    {
+      "job_id": "11092",
+      "title": "Custodian - 12:00 pm - 5:15 pm Daily",
+      "position_type": "Maintenance & Custodial",
+      "location": "Coral Canyon Elementary",
+      "date_posted": "8/26/2025",
+      "date_available": "After Hiring Process",
+      "closing_date": "09/16/25",
+      "status": "Part Time, 25.5 hours per week -\u00a012:00 pm - 5:15 pm DailyMinimum Requirements:No specific education requirement, but must demonstrate ability to read and write English at a level required for successful job performance. \u00a0A general knowledge of commercial cleaning techniques.One year of work experience in manual work. \u00a0Must hold and maintain a valid Utah Driver's License.The salary for this position is assigned to Level 1 of the MN Salary Schedule.To view the salary schedule, please select the following linkMN\u00a0Salary Schedule.Attachment(s):Custodian.pdfEmail To A FriendPrint Version",
+      "minimum_requirements": "No specific education requirement, but must demonstrate ability to read and write English at a level required for successful job performance. \u00a0A general knowledge of commercial cleaning techniques.One year of work experience in manual work. \u00a0Must hold and maintain a valid Utah Driver's License.The salary for this position is assigned to Level 1 of the MN Salary Schedule.To view the salary schedule, please select the following linkMN\u00a0Salary Schedule.Attachment(s):Custodian.pdfEmail To A FriendPrint Version",
+      "salary_information": "Schedule.To view the salary schedule, please select the following linkMN\u00a0Salary Schedule.Attachment(s):Custodian.pdfEmail To A FriendPrint Version",
+      "description": "Status:Part Time, 25.5 hours per week -\u00a012:00 pm - 5:15 pm DailyMinimum Requirements:No specific education requirement, but must demonstrate ability to read and write English at a level required for successful job performance. \u00a0A general knowledge of commercial cleaning techniques.One year of work experience in manual work. \u00a0Must hold and maintain a valid Utah Driver's License.The salary for this position is assigned to Level 1 of the MN Salary Schedule.To view the salary schedule, please select...",
+      "attachments": [
+        {
+          "text": "Custodian.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=96392"
+        }
+      ],
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11092",
       "license_requirements": "valid Utah Driver's License.The salary for this position is assigned to Level 1 of the MN Salary Schedule.To view the salary sc"
     },
     {
@@ -226,26 +226,6 @@
         }
       ],
       "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10819"
-    },
-    {
-      "job_id": "11034",
-      "title": "Lunchroom and Playground Monitor",
-      "position_type": "Miscellaneous Support",
-      "location": "Hurricane Elementary",
-      "date_posted": "7/30/2025",
-      "date_available": "After Hiring Process",
-      "closing_date": "09/05/25",
-      "status": "On-Call/As Needed BasisMinimum Requirements:High school diploma or general education degree (GED); or six months to one year related experience and/or training; or equivalent combination of education and experience.Minimum salary for this position is $17.13 per hour.Attachment(s):Lunchroom & Playground Monitor.pdfEmail To A FriendPrint Version",
-      "minimum_requirements": "High school diploma or general education degree (GED); or six months to one year related experience and/or training; or equivalent combination of education and experience.Minimum salary for this position is $17.13 per hour.Attachment(s):Lunchroom & Playground Monitor.pdfEmail To A FriendPrint Version",
-      "salary_information": "",
-      "description": "Status:On-Call/As Needed BasisMinimum Requirements:High school diploma or general education degree (GED); or six months to one year related experience and/or training; or equivalent combination of education and experience.Minimum salary for this position is $17.13 per hour.",
-      "attachments": [
-        {
-          "text": "Lunchroom & Playground Monitor.pdf",
-          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=94903"
-        }
-      ],
-      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11034"
     },
     {
       "job_id": "10749",
@@ -373,44 +353,44 @@
       "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10748"
     },
     {
-      "job_id": "10944",
+      "job_id": "11077",
       "title": "Special Education Paraprofessional",
       "position_type": "Paraprofessional/Assistant",
-      "location": "Desert Hills High",
-      "date_posted": "6/16/2025",
-      "date_available": "08/11/2025",
-      "closing_date": "09/12/2025",
-      "status": "4 Vacancies AvailablePart Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
+      "location": "Bloomington Elementary",
+      "date_posted": "8/21/2025",
+      "date_available": "After Hiring Process",
+      "closing_date": "09/17/25",
+      "status": "Part Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
       "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
       "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
-      "description": "Status:4 Vacancies AvailablePart Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.",
+      "description": "Status:Part Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.",
       "attachments": [
         {
           "text": "Special Education Paraprofessional.pdf",
-          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=94151"
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=96328"
         }
       ],
-      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10944"
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11077"
     },
     {
-      "job_id": "11006",
-      "title": "Paraprofessional",
+      "job_id": "11080",
+      "title": "Special Education Paraprofessional",
       "position_type": "Paraprofessional/Assistant",
-      "location": "Paradise Canyon Elementary",
-      "date_posted": "7/21/2025",
+      "location": "Desert Canyons Elementary",
+      "date_posted": "8/21/2025",
       "date_available": "After Hiring Process",
-      "closing_date": "09/11/25",
-      "status": "Part Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 1 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Paraprofessional.pdfEmail To A FriendPrint Version",
-      "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 1 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Paraprofessional.pdfEmail To A FriendPrint Version",
-      "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Paraprofessional.pdfEmail To A FriendPrint Version",
-      "description": "Status:Part Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 1 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.",
+      "closing_date": "09/16/25",
+      "status": "Part Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
+      "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
+      "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
+      "description": "Status:Part Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.",
       "attachments": [
         {
-          "text": "Paraprofessional.pdf",
-          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=94619"
+          "text": "Special Education Paraprofessional.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=96333"
         }
       ],
-      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11006"
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11080"
     },
     {
       "job_id": "11047",
@@ -554,26 +534,6 @@
       "license_requirements": "ities.CERTIFICATES, LICENSES, REGISTRATIONSMust have a Registered Behavior Technician (RBT) Certification issued by the Behavio"
     },
     {
-      "job_id": "11093",
-      "title": "Paraprofessional",
-      "position_type": "Paraprofessional/Assistant",
-      "location": "South Mesa Elementary",
-      "date_posted": "9/2/2025",
-      "date_available": "After Hiring Process",
-      "closing_date": "09/08/25",
-      "status": "Part Time, 15 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 1 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Paraprofessional.pdfEmail To A FriendPrint Version",
-      "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 1 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Paraprofessional.pdfEmail To A FriendPrint Version",
-      "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Paraprofessional.pdfEmail To A FriendPrint Version",
-      "description": "Status:Part Time, 15 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 1 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.",
-      "attachments": [
-        {
-          "text": "Paraprofessional.pdf",
-          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=96440"
-        }
-      ],
-      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11093"
-    },
-    {
       "job_id": "11095",
       "title": "Paraprofessional",
       "position_type": "Paraprofessional/Assistant",
@@ -654,44 +614,64 @@
       "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11098"
     },
     {
-      "job_id": "11077",
-      "title": "Special Education Paraprofessional",
+      "job_id": "11093",
+      "title": "Paraprofessional",
       "position_type": "Paraprofessional/Assistant",
-      "location": "Bloomington Elementary",
-      "date_posted": "8/21/2025",
+      "location": "South Mesa Elementary",
+      "date_posted": "9/2/2025",
       "date_available": "After Hiring Process",
-      "closing_date": "09/17/25",
-      "status": "Part Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
-      "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
-      "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
-      "description": "Status:Part Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.",
+      "closing_date": "09/08/25",
+      "status": "Part Time, 15 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 1 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Paraprofessional.pdfEmail To A FriendPrint Version",
+      "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 1 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Paraprofessional.pdfEmail To A FriendPrint Version",
+      "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Paraprofessional.pdfEmail To A FriendPrint Version",
+      "description": "Status:Part Time, 15 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 1 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.",
       "attachments": [
         {
-          "text": "Special Education Paraprofessional.pdf",
-          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=96328"
+          "text": "Paraprofessional.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=96440"
         }
       ],
-      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11077"
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11093"
     },
     {
-      "job_id": "11080",
+      "job_id": "10944",
       "title": "Special Education Paraprofessional",
       "position_type": "Paraprofessional/Assistant",
-      "location": "Desert Canyons Elementary",
-      "date_posted": "8/21/2025",
-      "date_available": "After Hiring Process",
-      "closing_date": "09/16/25",
-      "status": "Part Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
+      "location": "Desert Hills High",
+      "date_posted": "6/16/2025",
+      "date_available": "08/11/2025",
+      "closing_date": "09/12/2025",
+      "status": "4 Vacancies AvailablePart Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
       "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
       "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Special Education Paraprofessional.pdfEmail To A FriendPrint Version",
-      "description": "Status:Part Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.",
+      "description": "Status:4 Vacancies AvailablePart Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 3 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.",
       "attachments": [
         {
           "text": "Special Education Paraprofessional.pdf",
-          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=96333"
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=94151"
         }
       ],
-      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11080"
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=10944"
+    },
+    {
+      "job_id": "11006",
+      "title": "Paraprofessional",
+      "position_type": "Paraprofessional/Assistant",
+      "location": "Paradise Canyon Elementary",
+      "date_posted": "7/21/2025",
+      "date_available": "After Hiring Process",
+      "closing_date": "09/11/25",
+      "status": "Part Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 1 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Paraprofessional.pdfEmail To A FriendPrint Version",
+      "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 1 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Paraprofessional.pdfEmail To A FriendPrint Version",
+      "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):Paraprofessional.pdfEmail To A FriendPrint Version",
+      "description": "Status:Part Time, 27.5 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Level 1 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.",
+      "attachments": [
+        {
+          "text": "Paraprofessional.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=94619"
+        }
+      ],
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11006"
     },
     {
       "job_id": "11067",
