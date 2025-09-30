@@ -1,6 +1,6 @@
 {
   "source": "Washington County School District",
-  "job_count": 34,
+  "job_count": 36,
   "jobs": [
     {
       "job_id": "11001",
@@ -63,6 +63,27 @@
         }
       ],
       "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11141",
+      "license_requirements": "valid Utah Driver's License.The salary for this position is assigned to Level 1 of the MN Salary Schedule.To view the salary sc"
+    },
+    {
+      "job_id": "11147",
+      "title": "Custodian",
+      "position_type": "Maintenance & Custodial",
+      "location": "Washington Fields Intermediate",
+      "date_posted": "9/29/2025",
+      "date_available": "After hiring process",
+      "closing_date": "10/06/2025",
+      "status": "Part Time, 20 hours per weekMinimum Requirements:No specific education requirement, but must demonstrate ability to read and write English at a level required for successful job performance. \u00a0A general knowledge of commercial cleaning techniques.One year of work experience in manual work. \u00a0Must hold and maintain a valid Utah Driver's License.The salary for this position is assigned to Level 1 of the MN Salary Schedule.To view the salary schedule, please select the following linkMN\u00a0Salary Schedule.Attachment(s):Custodian.pdfEmail To A FriendPrint Version",
+      "minimum_requirements": "No specific education requirement, but must demonstrate ability to read and write English at a level required for successful job performance. \u00a0A general knowledge of commercial cleaning techniques.One year of work experience in manual work. \u00a0Must hold and maintain a valid Utah Driver's License.The salary for this position is assigned to Level 1 of the MN Salary Schedule.To view the salary schedule, please select the following linkMN\u00a0Salary Schedule.Attachment(s):Custodian.pdfEmail To A FriendPrint Version",
+      "salary_information": "Schedule.To view the salary schedule, please select the following linkMN\u00a0Salary Schedule.Attachment(s):Custodian.pdfEmail To A FriendPrint Version",
+      "description": "Status:Part Time, 20 hours per weekMinimum Requirements:No specific education requirement, but must demonstrate ability to read and write English at a level required for successful job performance. \u00a0A general knowledge of commercial cleaning techniques.One year of work experience in manual work. \u00a0Must hold and maintain a valid Utah Driver's License.The salary for this position is assigned to Level 1 of the MN Salary Schedule.To view the salary schedule, please select the following linkMN\u00a0Salary ...",
+      "attachments": [
+        {
+          "text": "Custodian.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=96882"
+        }
+      ],
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11147",
       "license_requirements": "valid Utah Driver's License.The salary for this position is assigned to Level 1 of the MN Salary Schedule.To view the salary sc"
     },
     {
@@ -674,6 +695,33 @@
       "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11073",
       "endorsements_required": ".The salary for this position is assigned to the\u00a0ES\u00a0Salary Schedule. \u00a0Information regarding the salary schedule lane assignment can be viewed on the attached job description.To view the salary schedule, please select the following linkES\u00a0Salary Schedule.Attachment(s):Speech-Language Pathologist.pdfEmail To A FriendPrint Version",
       "license_requirements": "anguage Pathologist License or a Communication Disorders License with a Speech and Language Pathology Endorsement.The salary fo"
+    },
+    {
+      "job_id": "11146",
+      "title": "Math Teacher (7-8)",
+      "position_type": "Teaching/Certified",
+      "location": "Washington Fields Intermediate",
+      "date_posted": "9/29/2025",
+      "date_available": "After hiring process",
+      "closing_date": "10/06/2025",
+      "status": "Full Time, 1 FTEIncludes Extra PeriodMinimum Requirements:An Active Utah Secondary Education Teaching License with Middle School Math endorsement.The salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):MATH TEACHER ADDENDUM.pdfSecondary Education Teacher.pdfEmail To A FriendPrint Version",
+      "minimum_requirements": "An Active Utah Secondary Education Teaching License with Middle School Math endorsement.The salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):MATH TEACHER ADDENDUM.pdfSecondary Education Teacher.pdfEmail To A FriendPrint Version",
+      "salary_information": "Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):MATH TEACHER ADDENDUM.pdfSecondary Education Teacher.pdfEmail To A FriendPrint Version",
+      "description": "Status:Full Time, 1 FTEIncludes Extra PeriodMinimum Requirements:An Active Utah Secondary Education Teaching License with Middle School Math endorsement.The salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.",
+      "attachments": [
+        {
+          "text": "MATH TEACHER ADDENDUM.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=96880"
+        },
+        {
+          "text": "Secondary Education Teacher.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=96881"
+        }
+      ],
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11146",
+      "fte": "1 FTE",
+      "endorsements_required": "Middle School Math endorsement.The salary for this position is assigned to the TT Salary Schedule.To view the salary schedule, ple",
+      "license_requirements": "Education Teaching License with Middle School Math endorsement.The salary for this position is assigned to the TT Salary Sched"
     },
     {
       "job_id": "10677",
