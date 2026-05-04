@@ -1,7 +1,27 @@
 {
   "source": "Washington County School District",
-  "job_count": 119,
+  "job_count": 120,
   "jobs": [
+    {
+      "job_id": "11640",
+      "title": "School Title I TOSA (Site Coordinator)",
+      "position_type": "Teacher on Special Assignment",
+      "location": "Panorama Elementary",
+      "date_posted": "5/4/2026",
+      "date_available": "08/06/2026",
+      "closing_date": "05/11/2026",
+      "status": "",
+      "minimum_requirements": "",
+      "salary_information": "Schedule.To view the salary schedule, please select the following linkTT Salary Schedule.Attachment(s):TSA School Title I.pdfEmail To A FriendPrint Version",
+      "description": "STATUS:Full Time, 1 FTE* School Title I Teacher on Special Assignments include a temporary/at-will contract for 10 extra contract days.EDUCATION and/or EXPERIENCE(for detailed information, please see the attached job description)Current WCSD employee with a minimum of a Bachelor's Degree and a minimum of 3 years of successful teaching experience in an elementary school.CERTIFICATES, LICENSES, REGISTRATIONSMust have an active professional level Utah Teaching License and an active Utah School Lead...",
+      "attachments": [
+        {
+          "text": "TSA School Title I.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=102358"
+        }
+      ],
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11640"
+    },
     {
       "job_id": "11497",
       "title": "Assistant Girls Volleyball Coach (no teaching assignment)",
@@ -132,6 +152,27 @@
       "license_requirements": "ain a Utah driver's license when assigned to a transport school. \u00a0Possess a Food Handler's permit.The salary for this position"
     },
     {
+      "job_id": "11620",
+      "title": "Food Service Worker",
+      "position_type": "Food Service",
+      "location": "Red Mountain Elementary",
+      "date_posted": "4/27/2026",
+      "date_available": "08/13/2026",
+      "closing_date": "05/04/2026",
+      "status": "Part Time,\u00a020 hours per weekMinimum Requirements:Hold and maintain a Utah driver's license when assigned to a transport school. \u00a0Possess a Food Handler's permit.The salary for this position is assigned to Lane 1 of the FD Salary Schedule.To view the salary schedule, please select the following linkFD\u00a0Salary Schedule.Attachment(s):Food Service Worker.pdfEmail To A FriendPrint Version",
+      "minimum_requirements": "Hold and maintain a Utah driver's license when assigned to a transport school. \u00a0Possess a Food Handler's permit.The salary for this position is assigned to Lane 1 of the FD Salary Schedule.To view the salary schedule, please select the following linkFD\u00a0Salary Schedule.Attachment(s):Food Service Worker.pdfEmail To A FriendPrint Version",
+      "salary_information": "Schedule.To view the salary schedule, please select the following linkFD\u00a0Salary Schedule.Attachment(s):Food Service Worker.pdfEmail To A FriendPrint Version",
+      "description": "Status:Part Time,\u00a020 hours per weekMinimum Requirements:Hold and maintain a Utah driver's license when assigned to a transport school. \u00a0Possess a Food Handler's permit.The salary for this position is assigned to Lane 1 of the FD Salary Schedule.To view the salary schedule, please select the following linkFD\u00a0Salary Schedule.",
+      "attachments": [
+        {
+          "text": "Food Service Worker.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=101580"
+        }
+      ],
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11620",
+      "license_requirements": "ain a Utah driver's license when assigned to a transport school. \u00a0Possess a Food Handler's permit.The salary for this position"
+    },
+    {
       "job_id": "11592",
       "title": "Elementary Food Service Manager",
       "position_type": "Food Service",
@@ -213,27 +254,6 @@
         }
       ],
       "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11635",
-      "license_requirements": "ain a Utah driver's license when assigned to a transport school. \u00a0Possess a Food Handler's permit.The salary for this position"
-    },
-    {
-      "job_id": "11620",
-      "title": "Food Service Worker",
-      "position_type": "Food Service",
-      "location": "Red Mountain Elementary",
-      "date_posted": "4/27/2026",
-      "date_available": "08/13/2026",
-      "closing_date": "05/04/2026",
-      "status": "Part Time,\u00a020 hours per weekMinimum Requirements:Hold and maintain a Utah driver's license when assigned to a transport school. \u00a0Possess a Food Handler's permit.The salary for this position is assigned to Lane 1 of the FD Salary Schedule.To view the salary schedule, please select the following linkFD\u00a0Salary Schedule.Attachment(s):Food Service Worker.pdfEmail To A FriendPrint Version",
-      "minimum_requirements": "Hold and maintain a Utah driver's license when assigned to a transport school. \u00a0Possess a Food Handler's permit.The salary for this position is assigned to Lane 1 of the FD Salary Schedule.To view the salary schedule, please select the following linkFD\u00a0Salary Schedule.Attachment(s):Food Service Worker.pdfEmail To A FriendPrint Version",
-      "salary_information": "Schedule.To view the salary schedule, please select the following linkFD\u00a0Salary Schedule.Attachment(s):Food Service Worker.pdfEmail To A FriendPrint Version",
-      "description": "Status:Part Time,\u00a020 hours per weekMinimum Requirements:Hold and maintain a Utah driver's license when assigned to a transport school. \u00a0Possess a Food Handler's permit.The salary for this position is assigned to Lane 1 of the FD Salary Schedule.To view the salary schedule, please select the following linkFD\u00a0Salary Schedule.",
-      "attachments": [
-        {
-          "text": "Food Service Worker.pdf",
-          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=101580"
-        }
-      ],
-      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11620",
       "license_requirements": "ain a Utah driver's license when assigned to a transport school. \u00a0Possess a Food Handler's permit.The salary for this position"
     },
     {
