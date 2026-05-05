@@ -1,6 +1,6 @@
 {
   "source": "Washington County School District",
-  "job_count": 120,
+  "job_count": 121,
   "jobs": [
     {
       "job_id": "11640",
@@ -1904,6 +1904,26 @@
         }
       ],
       "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11616"
+    },
+    {
+      "job_id": "11641",
+      "title": "ESL Assistant",
+      "position_type": "Paraprofessional/Assistant",
+      "location": "Desert Hills Middle",
+      "date_posted": "5/4/2026",
+      "date_available": "08/13/2026",
+      "closing_date": "05/11/2026",
+      "status": "Part Time, 15 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Lane 2 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):ESL Assistant.pdfEmail To A FriendPrint Version",
+      "minimum_requirements": "Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Lane 2 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):ESL Assistant.pdfEmail To A FriendPrint Version",
+      "salary_information": "Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.Attachment(s):ESL Assistant.pdfEmail To A FriendPrint Version",
+      "description": "Status:Part Time, 15 hours per weekMinimum Requirements:Associate's degreeor48 semester hours from an accredited college/universityorpassing results on an approved Paraprofessional Assessment.The salary for this position is assigned to Lane 2 of the SC Salary Schedule.To view the salary schedule, please select the following linkSC\u00a0Salary Schedule.",
+      "attachments": [
+        {
+          "text": "ESL Assistant.pdf",
+          "url": "https://www.applitrack.com/washk12/onlineapp/1BrowseFile.aspx?id=102379"
+        }
+      ],
+      "url": "https://www.applitrack.com/washk12/onlineapp/default.aspx?AppliTrackJobId=11641"
     },
     {
       "job_id": "11639",
